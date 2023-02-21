@@ -58894,8 +58894,8 @@ var _reselect = require("reselect");
 // src/getDefaultMiddleware.ts
 var _reduxThunk = require("redux-thunk");
 var _reduxThunkDefault = parcelHelpers.interopDefault(_reduxThunk);
-var process = require("356bc9af5b0868f8");
 var global = arguments[3];
+var process = require("356bc9af5b0868f8");
 var __extends = undefined && undefined.__extends || function() {
     var extendStatics = function(d, b) {
         extendStatics = Object.setPrototypeOf || ({
@@ -65141,6 +65141,6 @@ module.exports = function(loader, type) {
     };
 };
 
-},{}]},["1xC6H","7Zeie","2kQhy"], "2kQhy", "parcelRequired604")
+},{}]},["1xC6H","7Zeie","2kQhy"], "2kQhy", "parcelRequire853e")
 
 //# sourceMappingURL=index.7271efb6.js.map

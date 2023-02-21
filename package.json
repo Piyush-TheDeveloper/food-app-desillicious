@@ -1,25 +1,25 @@
 {
-  "name": "day-11-data_is_the_new_oil",
+  "name": "desillicious-food-app",
   "version": "1.0.0",
-  "description": "day-11-assignment",
+  "description": "Food app with live public of swiggy",
   "scripts": {
     "start": "parcel index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Piyush-TheDeveloper/NamasteReact_Piyush.git"
+    "url": "git+https://github.com/Piyush-TheDeveloper/food-app-desillicious.git"
   },
   "keywords": [
-    "Namaste",
-    "React"
+    "Desillicious",
+    "Food App"
   ],
   "author": "Piyush Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Piyush-TheDeveloper/NamasteReact_Piyush/issues"
+    "url": "https://github.com/Piyush-TheDeveloper/desillicious-food-app/issues"
   },
-  "homepage": "https://github.com/Piyush-TheDeveloper/NamasteReact_Piyush#readme",
+  "homepage": "https://github.com/Piyush-TheDeveloper/desillicious-food-app#readme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
